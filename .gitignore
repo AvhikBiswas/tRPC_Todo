@@ -1,0 +1,20 @@
+# Ignore trpc generated files
+generated/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore TypeScript build output
+dist/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore any local configuration files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore logs
+*.log
